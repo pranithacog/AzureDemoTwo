@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pranitha Alluri\\source\\Repos\\FoodForAzure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EDDA076-B22C-4D59-996B-C67F96872B0B}|FoodForAzure\\FoodForAzure.csproj|c:\\users\\pranitha alluri\\source\\repos\\foodforazure\\foodforazure\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EDDA076-B22C-4D59-996B-C67F96872B0B}|FoodForAzure\\FoodForAzure.csproj|solutionrelative:foodforazure\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EDDA076-B22C-4D59-996B-C67F96872B0B}|FoodForAzure\\FoodForAzure.csproj|c:\\users\\pranitha alluri\\source\\repos\\foodforazure\\foodforazure\\controllers\\foodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EDDA076-B22C-4D59-996B-C67F96872B0B}|FoodForAzure\\FoodForAzure.csproj|solutionrelative:foodforazure\\controllers\\foodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EDDA076-B22C-4D59-996B-C67F96872B0B}|FoodForAzure\\FoodForAzure.csproj|c:\\users\\pranitha alluri\\source\\repos\\foodforazure\\foodforazure\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EDDA076-B22C-4D59-996B-C67F96872B0B}|FoodForAzure\\FoodForAzure.csproj|solutionrelative:foodforazure\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EDDA076-B22C-4D59-996B-C67F96872B0B}|FoodForAzure\\FoodForAzure.csproj|c:\\users\\pranitha alluri\\source\\repos\\foodforazure\\foodforazure\\views\\foods\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EDDA076-B22C-4D59-996B-C67F96872B0B}|FoodForAzure\\FoodForAzure.csproj|solutionrelative:foodforazure\\views\\foods\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EDDA076-B22C-4D59-996B-C67F96872B0B}|FoodForAzure\\FoodForAzure.csproj|c:\\users\\pranitha alluri\\source\\repos\\foodforazure\\foodforazure\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EDDA076-B22C-4D59-996B-C67F96872B0B}|FoodForAzure\\FoodForAzure.csproj|solutionrelative:foodforazure\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Pranitha Alluri\\source\\Repos\\FoodForAzure\\FoodForAzure\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FoodForAzure\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Pranitha Alluri\\source\\Repos\\FoodForAzure\\FoodForAzure\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FoodForAzure\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T07:35:57.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Pranitha Alluri\\source\\Repos\\FoodForAzure\\FoodForAzure\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "FoodForAzure\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Pranitha Alluri\\source\\Repos\\FoodForAzure\\FoodForAzure\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "FoodForAzure\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T07:35:33.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pranitha Alluri\\source\\Repos\\FoodForAzure\\FoodForAzure\\Views\\Foods\\Index.cshtml",
+              "RelativeDocumentMoniker": "FoodForAzure\\Views\\Foods\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pranitha Alluri\\source\\Repos\\FoodForAzure\\FoodForAzure\\Views\\Foods\\Index.cshtml*",
+              "RelativeToolTip": "FoodForAzure\\Views\\Foods\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-01T07:34:52.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\Pranitha Alluri\\source\\Repos\\FoodForAzure\\FoodForAzure\\Models\\Food.cs",
+              "RelativeDocumentMoniker": "FoodForAzure\\Models\\Food.cs",
+              "ToolTip": "C:\\Users\\Pranitha Alluri\\source\\Repos\\FoodForAzure\\FoodForAzure\\Models\\Food.cs*",
+              "RelativeToolTip": "FoodForAzure\\Models\\Food.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T07:34:08.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FoodsController.cs",
+              "DocumentMoniker": "C:\\Users\\Pranitha Alluri\\source\\Repos\\FoodForAzure\\FoodForAzure\\Controllers\\FoodsController.cs",
+              "RelativeDocumentMoniker": "FoodForAzure\\Controllers\\FoodsController.cs",
+              "ToolTip": "C:\\Users\\Pranitha Alluri\\source\\Repos\\FoodForAzure\\FoodForAzure\\Controllers\\FoodsController.cs*",
+              "RelativeToolTip": "FoodForAzure\\Controllers\\FoodsController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T07:33:38.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

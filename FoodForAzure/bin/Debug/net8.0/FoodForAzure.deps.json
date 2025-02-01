@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FoodForAzure/1.0.0": {
+        "runtime": {
+          "FoodForAzure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FoodForAzure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
